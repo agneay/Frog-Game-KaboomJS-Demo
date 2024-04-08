@@ -1,3 +1,9 @@
+#Frog Game Demo
+## This project is intented to be a beginner project to those who start learning kaboomJS
+---
+# Sample demo
+![demo](/video/demo.gif)
+---
 # Folder structure
 
 - `src` - source code for your kaboom project
